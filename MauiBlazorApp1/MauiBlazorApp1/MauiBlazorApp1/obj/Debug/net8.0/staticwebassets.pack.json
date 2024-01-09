@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\SIGAC\\Development\\repos\\MauiBlazor\\MauiBlazorApp1\\MauiBlazorApp1\\MauiBlazorApp1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MauiBlazorApp1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MauiBlazorApp1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\SIGAC\\Development\\repos\\MauiBlazor\\MauiBlazorApp1\\MauiBlazorApp1\\MauiBlazorApp1\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\SIGAC\\Development\\repos\\MauiBlazor\\MauiBlazorApp1\\MauiBlazorApp1\\MauiBlazorApp1\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\SIGAC\\Development\\repos\\MauiBlazor\\MauiBlazorApp1\\MauiBlazorApp1\\MauiBlazorApp1\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\SIGAC\\Development\\repos\\MauiBlazor\\MauiBlazorApp1\\MauiBlazorApp1\\MauiBlazorApp1\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MauiBlazorApp1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MauiBlazorApp1.props",
+      "PackagePath": "build\\MauiBlazorApp1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MauiBlazorApp1.props",
+      "PackagePath": "buildMultiTargeting\\MauiBlazorApp1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MauiBlazorApp1.props",
+      "PackagePath": "buildTransitive\\MauiBlazorApp1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
